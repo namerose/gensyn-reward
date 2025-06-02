@@ -1,4 +1,6 @@
-## HOW EASILY UPGRADE YOUR GENSYN REWARD
+## HOW EASILY UPGRADE YOUR GENSYN REWARD for TROLLING
+
+## This reward will goes brrr 100000x
 
 ## 📥 Installation
 
