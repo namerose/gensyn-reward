@@ -19,3 +19,5 @@ DONE YOU NOW IDIOT PEOPLE LIKE ME!
 ![Screenshot 2025-05-31 092506](https://github.com/user-attachments/assets/f8f5b8e6-36e9-4c7e-8ea2-e3a7d676a647)
 
 ![Screenshot 2025-05-31 120208](https://github.com/user-attachments/assets/2ef09556-7d3b-43d0-92dc-51e29e1b0cbc)
+
+join my discord for fun https://discord.gg/oceans
