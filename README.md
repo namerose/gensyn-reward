@@ -2,7 +2,7 @@
 
 ## 📥 Installation
 
-1. **Go to `gsm8k` First**
+1. **Go to `gsm8k` folder First**
 ```bash
 cd hivemind_exp/gsm8k
 ```
