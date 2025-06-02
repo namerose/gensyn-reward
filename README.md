@@ -1,6 +1,6 @@
 ## HOW EASILY UPGRADE YOUR GENSYN REWARD for TROLLING
 
-## This reward will goes brrr 100000x
+## This reward will goes brrr 100000x or you can decrease the reward by yourself
 
 ## 📥 Installation
 
