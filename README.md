@@ -17,6 +17,7 @@ beta:0.1
 DONE YOU NOW IDIOT PEOPLE LIKE ME!
 ```
 https://huggingface.co/Oceans-ID/Qwen2.5-1.5B-Instruct-Gensyn-Swarm-territorial_barky_cat 
+
 ( Using 3090 1.5B 100steps num_generations: 4, per_device_train_batch_size: 4, beta: 0.1, warmup_ratio: 0.08, learning_rate: 7.0e-7, gradient_accumulation_steps: 4 )
 
 ![Screenshot 2025-05-31 092506](https://github.com/user-attachments/assets/f8f5b8e6-36e9-4c7e-8ea2-e3a7d676a647)
