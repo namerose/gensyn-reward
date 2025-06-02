@@ -7,7 +7,7 @@
 cd hivemind_exp/gsm8k
 ```
 2. **Change every reward code from stage 1,2,3 like the code that i shared!
-3. **Change Config* on your model .yaml file  
+3. **Change Config* on your model .yaml file  you can set higher or lower is up to you
 ```bash
 warmup:0.08
 beta:0.1
